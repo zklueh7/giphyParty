@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+#remove {
+    background-color: orange;
+}
+
+#submit {
+    background-color: grey;
+}
+
+form {
+    display: inline;
+}
